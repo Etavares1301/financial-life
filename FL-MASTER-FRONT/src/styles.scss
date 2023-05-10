@@ -1,0 +1,10 @@
+@import './config-scss/variables.scss';
+@import './config-scss/reset.scss';
+@import './config-scss/rem-calc.scss';
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+html{
+    font-family: ' Indie Flower',sans-serif;
+    background: var(--primary-color);
+}
+
